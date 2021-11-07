@@ -5,7 +5,7 @@ body{
 }
 nav{
     background-color: #7DA984;
-    display: inline-flex;
+    display: inline;
     flex-wrap:wrap;
     height:120px;
     width:100%;
